@@ -24,7 +24,6 @@ export default function Home() {
               height={24}
               priority
             />
-
           </a>
         </div>
       </div>
@@ -69,12 +68,6 @@ export default function Home() {
               -&gt;
             </span>
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
         </a>
 
         <a
